@@ -142,7 +142,7 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Working Days | 18 |
+| Total Working Days | 30 |
 | Total Hours Worked | 100 |
 | PRs Reviewed | 10 |
 | Bugs Fixed | 11 |
