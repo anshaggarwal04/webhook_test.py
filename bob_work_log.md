@@ -147,7 +147,8 @@
 | PRs Reviewed | 15 |
 | Bugs Fixed | 11 |
 | Connectors Built | 3 (GitHub, Jira,slack ) |
-| API Endpoints Delivered | 3 (/chat, /knowledge, /webhooks/github) |
+| API Endpoints Delivered | 3 (/chat, /knowledge, /webhooks/github) .
+
 
 ---
 
