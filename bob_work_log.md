@@ -142,7 +142,7 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Working Days | 30 |
+| Total Working Days | 10 |
 | Total Hours Worked | 100 |
 | PRs Reviewed | 15 |
 | Bugs Fixed | 11 |
@@ -158,4 +158,4 @@
 - Built the `/chat` pipeline end-to-end with per-stage tracing
 - Implemented Redis caching layer that reduced retrieval latency by ~60%
 - Led security review and implemented AbuseGuard rate limiter
-- Total hours logged across 15 days: **93 hours**
+
