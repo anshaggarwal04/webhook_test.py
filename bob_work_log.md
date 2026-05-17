@@ -142,8 +142,8 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Working Days | 20 |
-| Total Hours Worked | 1000 |
+| Total Working Days | 19 |
+| Total Hours Worked | 10 |
 | PRs Reviewed | 15 |
 | Bugs Fixed | 11 |
 | Connectors Built | 3 (GitHub, Jira,slack ) |
