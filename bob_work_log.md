@@ -146,7 +146,7 @@
 | Total Hours Worked | 10 |
 | PRs Reviewed | 15 |
 | Bugs Fixed | 11 |
-| Connectors Built | 3 (GitHub, Jira,slack ) |
+| Connectors Built | 2 (GitHub, Jira ) |
 | API Endpoints Delivered | 3 (/chat, /knowledge, /webhooks/github) .
 
 
